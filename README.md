@@ -116,6 +116,7 @@ body {
 ```
  }
 # Output:
-![Screenshot 2023-12-15 201004](https://github.com/Jeshwanthkumarpayyavula/Ex-06-Book-Cover-Design/assets/145742402/034ce1c4-e101-467d-a448-297bca30c36d)
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex-06-Book-Cover-Design/assets/145742402/d082db95-a25b-4296-bb49-688882010d30)
+
 
  
