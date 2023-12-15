@@ -8,10 +8,8 @@ Using vs code create a html and css files
 ## Step3:
 Try some designs and some font over the image
 ## Step4:
-Also select another background images and make it small and paste it
-## Step5:
 Give the author name and photo down below the book cover
-## Step6:
+## Step5:
 Run the Html Program to see the results
 # Program:
 
@@ -25,35 +23,26 @@ book.html::
 <body>
    
 
-<h1>Classmate</h1>
+<h1>Expert insight</h1>
 <hr>
-<p align="center">Life is not as easy as u think.</p>
+<p align="center"><b>Responsive Web Design with HTML5 and CSS</b></p>
+<div class="direct">
+  Develop future-proof responsive websites using latest html and css techniques
+</div>
 
-<p align="center">Work hard and smart to taste the success.</p>
-<p align="center">Dont waste Your time!!</p>
-<ul>
-<li><p align="left">All is about Ur Life</p></li>
-<li><p align="left">So Be calm and start working</p></li>
 
-</ul>
-<hr>
 <div class="edit">
-  <p>First Edition</p>
+  Third Edition
+  <img src="myphoto.jpg" alt="">
+  <hr>
   
 </div>
-<div class="top">
-  <img src="coool.jpeg" alt="">
+<div class="name">
+  Jeshwanthkumar
 </div>
 
-  <img src="myphoto.jpg" alt="">
-  <div class="create">
-    <p>~By Jeshwanth kumar</p>
-  </div>
-  <div class="class">
-    <img src="class.jpeg" alt="">
-  </div>
-</body>
 
+</body>
 </html>
 
 
@@ -61,36 +50,35 @@ book.html::
 book.css:
 ```
 body {
-    background-image: url("ii.jpeg");
+    background-image: url("space.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 100px;
     color:  white;
-    .link {
-      position: right;
-    }
   }
-  a {
-    object-position: right;
-    position: fixed;
-    color: lightgreen;
-  }
+  
   .edit {
     position: sticky;
     left: 0;
     font-size: 50px;
-    color:lightgreen;
+    color: orange;
       }
   
   h1 {
-    color: lightgreen;
+    color: white;
     font-size: 50px;
   }
   p {
-     font-size: 40px;
+     
+     font-size: 100px;
+  }
+  
+  .direct {
+    font-size: 50px;
   }
   img {
+    bottom: 200px;
     margin-bottom: 100px;
     margin-right: 100px;
     float: right;
@@ -98,25 +86,25 @@ body {
   .create {
     position: fixed;
     right: 0;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
     margin-right: 100px;
     bottom: 100px; 
-    color: lightgreen; 
+    color: white; 
   }
-  
- .class {
+ .name {
   position: fixed;
-  top: 0;
-  right: 0;
+  left: 0;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  bottom: 20px; 
+  color: white; 
+  font-size: 50px;
+
  }
- .top {
-    margin-bottom: 100px;
-    margin-left: 0%;
-    float: left;
 ```
  }
 # Output:
-![image](https://github.com/Jeshwanthkumarpayyavula/Ex-06-Book-Cover-Design/assets/145742402/d082db95-a25b-4296-bb49-688882010d30)
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex-06-Book-Cover-Design/assets/145742402/483ef126-2f0f-428d-9732-7662ef6a04e0)
 
 
  
