@@ -1,4 +1,9 @@
 # Ex-06-Book-Cover-Design
+
+Name : P.Jeshwanth Kumar
+
+Reg.No.: 212223240114
+
 # Aim:
 To create a book cover design using Html and Css code's
 ## Step1:
